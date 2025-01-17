@@ -1,6 +1,8 @@
 {
   "name": "@matt.kantor/option-tag-symbol",
   "version": "0.0.0",
+  "license": "MIT",
+  "repository": "github:mkantor/option-tag-symbol",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
